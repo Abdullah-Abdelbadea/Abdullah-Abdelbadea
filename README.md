@@ -72,7 +72,7 @@
 
 - **NTI – Cloud Computing Training**  
   > Learned key cloud technologies including **IaaS, PaaS**, and **SaaS**; practiced with cloud platforms, Docker, and virtualization tools.
--  
+  
 - **Digital Egypt Pioneers Initiative (DEPI)** – PHP/Laravel Full Stack Development  
   > Also explored **DevOps** concepts including CI/CD pipelines, GitHub Actions, and server deployment practices.
 
