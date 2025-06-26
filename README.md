@@ -68,8 +68,18 @@
 ## 💼 Internships
 
 - **Digital Egypt Pioneers Initiative (DEPI)** – PHP/Laravel Full Stack Development  
-- **ITI Port Said** – Laravel Backend Development  
-- **ITI Smart Village** – IoT Technologies (Sigfox, IoTIK, MoT Platform)
+  > Also explored **DevOps** concepts including CI/CD pipelines, GitHub Actions, and server deployment practices.
+
+- **ITI Port Said** – Laravel Backend Development
+
+- **ITI Smart Village** – IoT Technologies  
+  > Hands-on experience with Sigfox, IoTIK, and MoT platform, covering the IoT value chain.
+
+- **ITI – Cybersecurity Training**  
+  > Gained foundational knowledge in **network security**, **ethical hacking**, and **application security** through intensive hands-on labs and simulations.
+
+- **NTI – Cloud Computing Training**  
+  > Learned key cloud technologies including **IaaS, PaaS**, and **SaaS**; practiced with cloud platforms, Docker, and virtualization tools.
 
 ---
 
