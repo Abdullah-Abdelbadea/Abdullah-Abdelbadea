@@ -100,8 +100,8 @@
 ## 🔗 Let's Connect
 
 - 📧 Email: [abdullahmohammed4084@gmail.com](mailto:abdullahmohammed4084@gmail.com)  
-- 🔗 LinkedIn: [Your LinkedIn Profile](#)  
-- 🌍 GitHub: [github.com/abdullah4084](https://github.com/abdullah4084)  
+- 🔗 LinkedIn: [Abdullah-Abdelbadea](https://www.linkedin.com/in/abdullah-mohammed-abd-elbadea-100618259))  
+- 🌍 GitHub: [github.com/Abdullah-Abdelbadea](https://github.com/Abdullah-Abdelbadea)  
 - 📱 Phone: +20 1022750608  
 
 ---
